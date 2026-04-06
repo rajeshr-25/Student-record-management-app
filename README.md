@@ -12,3 +12,22 @@
 
 ## Environment
 Create a `.env` file in backend with MongoDB connection string.
+
+## Features
+
+- Add student records
+- View student details
+- Update records
+- Delete records
+
+## Tech Stack
+
+- JavaScript
+- HTML
+- CSS
+
+## Installation
+
+git clone https://github.com/rajeshr-25/Student-record-management-app.git
+
+Open index.html in your browser.
